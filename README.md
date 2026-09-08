@@ -56,14 +56,13 @@ The program measures:
 ## Project Structure
 
 AI-Search-Algorithms/
-│
-├── ai_search.py
-├── README.md
-└── results/
-    └── performance_results.txt
+ -ai_search.py
+ -README.md
+ -results/
+       -performance_results.txt
 
 ## Author
 
-Name: Your Name
-PRN: Your PRN
+Name: Vishe Aniket Ganesh
+PRN: 202401040216
 Branch: Computer Engineering
